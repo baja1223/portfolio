@@ -8,11 +8,4 @@ Throughout my career, I’ve worked on distributed architectures, real-time APIs
 
 
   
-Next
-React
-Vue
-Angular
-Svelte
-Laravel
-Bootstrap
-JQuery
+https://github.com/mawadSur/mawadSur/blob/main/https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript
