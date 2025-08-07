@@ -7,7 +7,7 @@ My expertise spans full-stack development, cloud infrastructure (AWS, Azure, GCP
 Throughout my career, I’ve worked on distributed architectures, real-time APIs, and automation-heavy workflows, always emphasizing clean code, robust testing, scalable design, and have a proven track record of delivering secure, efficient solutions that support large-scale operations
 
 
-+## Connect with me 
+## Connect with me 
  
 📧 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taha.zabalawi210@gmail.com)  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahaz2)
