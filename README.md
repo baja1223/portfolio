@@ -8,3 +8,11 @@ Throughout my career, I’ve worked on distributed architectures, real-time APIs
 
 
   
+Next
+React
+Vue
+Angular
+Svelte
+Laravel
+Bootstrap
+JQuery
